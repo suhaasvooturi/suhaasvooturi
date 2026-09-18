@@ -1,19 +1,13 @@
 # Hi, I'm Suhaas
 
-Second-year B.Tech CSE (AI/ML) student, IARE, Hyderabad.
-Learning by building, not just by finishing courses.
+I'm a second-year B.Tech CSE (AI/ML) student at IARE, Hyderabad. I like the part of machine learning that has to survive inside actual software, not just the model sitting on its own, and I'd rather ship something small and working than sit on a half-finished idea. Open to internships and collaborations if something interesting comes up.
 
 ![Status](https://img.shields.io/badge/status-open_to_internships-0F3D3E?style=flat-square)
 ![Focus](https://img.shields.io/badge/focus-AI%2FML-E8A33D?style=flat-square)
-![Building](https://img.shields.io/badge/currently-building-0F3D3E?style=flat-square)
 
 ## Built
 
 - **[Portfolio site](https://suhaasv.vercel.app)** — own build, contact form wired to a real email API
-
-## Interested in
-
-- Where ML meets real software, not just models in isolation
 
 ## Stack
 

@@ -1,80 +1,24 @@
 # Hi, I'm Suhaas
 
-> ML that survives inside real software.
-> A 2nd-year CS student, trained toward that one idea.
+2nd-year B.Tech CSE (AI/ML) student at IARE, Hyderabad.
+I care about ML that survives inside real software, not a model sitting alone in a notebook.
 
-<br>
+```text
+$ pytest suhaas -v
 
-## Model Details
+test_python_first_always ................ PASSED
+test_sql_oracle_from_coursework ......... PASSED
+test_ships_small_things_first ........... PASSED
+test_contact_form_sends_real_email ...... PASSED
+test_ml_survives_inside_real_app ........ XFAIL
 
-| | |
-|---|---|
-| **Type** | B.Tech CSE (AI/ML), 2nd year |
-| **Base checkpoint** | IARE, Hyderabad |
-| **Primary language** | Python |
-| **Status** | Still training. Deployed in small pieces. |
-| **Availability** | Open to internships and collaborations |
-
-<br>
-
-## Intended Use
-
-**Good at**
-- Taking a small idea from half-finished to working and live
-- Python first, with SQL and Oracle for the data side
-- Wiring things to real services, not stubs (see the portfolio contact form below)
-
-**Looking for**
-- Internships where a model has to live inside a product
-- Collaborations on things that actually ship
-
-<br>
-
-## Hyperparameters
-
-```yaml
-philosophy: ship small, working things first
-language: python        # first, always
-demo_or_real: real      # a form sends actual email, not a mailto link
+4 passed, 1 xfailed
 ```
 
-<br>
+`XFAIL` means "expected to fail, for now". That's the one I'm working on: an ML model running inside a real app.
 
-## Training Data
+My portfolio is behind `test_contact_form_sends_real_email`. The form sends real email through an API, not a mailto link: [suhaasv.vercel.app](https://suhaasv.vercel.app/)
 
-| Source | What |
-|---|---|
-| Coursework | Python, Java, SQL, Oracle |
-| Web | HTML, CSS |
-| Tooling | Git, GitHub, VS Code, MySQL |
+Open to internships and collaborations.
 
-<br>
-
-## Evaluation (what I've shipped)
-
-| Build | Notes |
-|---|---|
-| [Portfolio](https://suhaasv.vercel.app/) | Own build. Contact form is wired to a real email API. |
-
-<!-- Add each new project as a row: | [Name](link) | one line on what it does, and what broke while building it | -->
-
-<br>
-
-## Known Limitations
-
-- Early in training. 2nd year, still learning fast.
-- The next thing to prove is a trained model running behind a real interface. New checkpoints get added above as they ship.
-- Failure modes get documented here as I find them.
-
-<br>
-
-## How to Get Started
-
-```python
->>> from suhaas import collaborate
->>> collaborate(topic="ML inside real software")
-```
-
-- Email: [YOUR_EMAIL](mailto:YOUR_EMAIL)
-- LinkedIn: [YOUR_HANDLE](https://linkedin.com/in/YOUR_HANDLE)
-- Portfolio: [suhaasv.vercel.app](https://suhaasv.vercel.app/)
+[Email](mailto:YOUR_EMAIL) · [LinkedIn](https://linkedin.com/in/YOUR_HANDLE) · [GitHub](https://github.com/YOUR_HANDLE)

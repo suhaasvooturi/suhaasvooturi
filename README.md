@@ -7,20 +7,13 @@ Learning by building, not just by finishing courses.
 ![Focus](https://img.shields.io/badge/focus-AI%2FML-E8A33D?style=flat-square)
 ![Building](https://img.shields.io/badge/currently-building-0F3D3E?style=flat-square)
 
-## Right now
-
-- Open source through GirlScript Summer of Code 2026, aiming for my first real PR
-- Picking a problem statement for Smart India Hackathon 2026
-- Practicing DSA, on repeat
-
 ## Built
 
 - **[Portfolio site](https://suhaasv.vercel.app)** — own build, contact form wired to a real email API
 
-## Learned
+## Interested in
 
-- AWS Machine Learning Fundamentals
-- Anthropic Claude API course
+- Where ML meets real software, not just models in isolation
 
 ## Stack
 
